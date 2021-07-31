@@ -1,7 +1,7 @@
 {
   "name": "success-motivational-quotes",
-  "version": "1.0.0",
-  "description": "This package aims to provide motivational quotes for success. It's have more than 2500 quotes from different famous authors.",
+  "version": "1.0.2",
+  "description": "Get best motivational quotes for success. This package contains more than 2500 quotes from different famous authors.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

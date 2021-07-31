@@ -26,8 +26,7 @@ console.log(quotes.getAllQuotes());
 ```
 
 ```json
- [
-
+[
   {
     "id": "0",
     "category": "Albert Einstein",
@@ -45,10 +44,8 @@ console.log(quotes.getAllQuotes());
     "category": "Albert Einstein",
     "body": "No problem can be solved from the same level of consciousness that created it.",
     "by": "Albert Einstein"
-  },
-  ....
-
- ]
+  }
+]
 ```
 
 ```js
@@ -63,8 +60,7 @@ console.log(quotes.getQuotesByCategory("Success"));
 ```
 
 ```json
- [
-
+[
   {
     "id": "1001",
     "category": "Success",
@@ -76,10 +72,8 @@ console.log(quotes.getQuotesByCategory("Success"));
     "category": "Success",
     "body": "I believe that the only courage anybody ever needs is the courage to follow your own dreams.",
     "by": "Oprah Winfrey"
-  },
-  ....
-
- ]
+  }
+]
 ```
 
 - **_getQuotesByAuthor(authorName)_** method returns an array of objects having quotes of a specific author. Please note that **_authorName_** is case sensitive.
@@ -90,8 +84,7 @@ console.log(quotes.getQuotesByAuthor("Albert Einstein"));
 ```
 
 ```json
- [
-
+[
   {
     "id": "0",
     "category": "Albert Einstein",
@@ -103,10 +96,8 @@ console.log(quotes.getQuotesByAuthor("Albert Einstein"));
     "category": "Albert Einstein",
     "body": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
     "by": "Albert Einstein"
-  },
-  ....
-
- ]
+  }
+]
 ```
 
 - **_getTodaysQuote()_** method returns an object containing a random quote from the quotes array.
@@ -149,6 +140,6 @@ I would love to merge pull requests if someone wants to contribute to this packa
 
 **MIT &copy;**
 
-## Oh, Thanks!
+## Thanks!
 
 Thank you for being here! Please tag me on [twitter](https://twitter.com/Sanan4li) if you develop something with this package.
