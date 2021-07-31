@@ -1,0 +1,17 @@
+{
+  "name": "success-motivational-quotes",
+  "version": "1.0.0",
+  "description": "This package aims to provide motivational quotes for success. It's have more than 2500 quotes from different famous authors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "motivational-quotes",
+    "success-quotes",
+    "inspirational-quotes",
+    "quotes-generator"
+  ],
+  "author": "Sanan Ali",
+  "license": "ISC"
+}
