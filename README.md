@@ -48,8 +48,54 @@ console.log(quotes.getAllQuotes());
 ]
 ```
 
-```js
+- **_getAllCategories()_** method returns an array of categories.
 
+```js
+const quotes = require("success-motivational-quotes");
+console.log(quotes.getAllCategories());
+```
+
+```json
+[
+  "Albert Einstein",
+  "Donald Trump",
+  "Abraham Lincoln",
+  "Anthony Robbins",
+  "Brian Tracey",
+  "Dale Carnegie",
+  "Dennis Waitley",
+  "Earl Nightingale",
+  "Jim Rohn",
+  "Mark Victor Hansen",
+  "Napoleon Hill",
+  "Norman Vincent Peale",
+  "Ralph Waldo Emerson",
+  "Robert H. Schuller",
+  "Robert T. Kiyosaki",
+  "Thomas Edison",
+  "Thomas Jefferson",
+  "W. Clement Stone",
+  "Zig Ziglar",
+  "Taking Action",
+  "Adversity",
+  "Attitude",
+  "Think Big",
+  "Goals",
+  "Learning",
+  "Persistence",
+  "Preparation",
+  "Taking Risks",
+  "Work",
+  "Motivational",
+  "Bill Gates",
+  "Elon Musk",
+  "Leadership",
+  "Business",
+  "Inspirational",
+  "Success",
+  "New",
+  "Random"
+]
 ```
 
 - **_getQuotesByCategory(category)_** method returns an array of objects having quotes of that category. Please note that **_category_** is case sensitive.

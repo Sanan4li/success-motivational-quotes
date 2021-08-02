@@ -23,11 +23,18 @@ const getTodaysQuote = () => {
 const getQuoteById = (quoteId) => {
   return data[quoteId];
 };
-
+const getAllCategories = () => {
+  const arr = data.map((quote) => {
+    return quote.category;
+  });
+  const categories = [...new Set(arr)];
+  return categories;
+};
 module.exports = {
   getQuoteById,
   getAllQuotes,
   getQuotesByAuthor,
   getQuotesByCategory,
   getTodaysQuote,
+  getAllCategories,
 };
