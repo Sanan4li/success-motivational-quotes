@@ -4,7 +4,7 @@
 
 ### Motivation
 
-These quotes were collected for a mobile app I created with React Native. After the app developed, I realized there should a package for quotes which can be used to get famous quotes. If you want to download the app, here is the **[link](https://play.google.com/store/apps/details?id=com.reactnativetemplatequotes)** for android users.
+These quotes were collected for a mobile app I created with React Native. After the app developed, I realized there should be a package for quotes which can be used to get famous quotes. If you want to download the app, here is the **[link](https://play.google.com/store/apps/details?id=com.reactnativetemplatequotes)** for android users.
 
 **Check [this](https://github.com/Sanan4li/success-motivational-quotes)** repository for source code of the package.
 

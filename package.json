@@ -1,6 +1,6 @@
 {
   "name": "success-motivational-quotes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get best motivational quotes for success. This package contains more than 2500 quotes from different famous authors.",
   "main": "index.js",
   "scripts": {
