@@ -120,7 +120,7 @@ console.log(quotes.getTodaysQuote());
 
 ```js
 const quotes = require("success-motivational-quotes");
-console.log(quotes.getTodaysQuote(56));
+console.log(quotes.getQuoteById(56));
 ```
 
 ```json
@@ -134,7 +134,7 @@ console.log(quotes.getTodaysQuote(56));
 
 ## Want to contribute?
 
-I would love to merge pull requests if someone wants to contribute to this package. Please make sure all quotes are in english language.
+I would love to merge all pull requests if someone wants to contribute to this package. Please make sure all quotes are in english language.
 
 ## License
 

@@ -1,6 +1,6 @@
 {
   "name": "success-motivational-quotes",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Get best motivational quotes for success. This package contains more than 2500 quotes from different famous authors.",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,18 @@
     "motivational-quotes",
     "success-quotes",
     "inspirational-quotes",
-    "quotes-generator"
+    "quotes-generator",
+    "motivation",
+    "quotes"
   ],
   "author": "Sanan Ali",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sanan4li/success-motivational-quotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sanan4li/success-motivational-quotes/issues"
+  },
+  "homepage": "https://github.com/Sanan4li/success-motivational-quotes#readme"
 }
